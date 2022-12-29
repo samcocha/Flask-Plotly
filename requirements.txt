@@ -1,0 +1,6 @@
+plotly
+flask
+json
+pandas
+gunicorn
+
